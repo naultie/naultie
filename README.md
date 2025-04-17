@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<h1>Will this work???</h1>
 -->
+
+<h1>This will work</h1>
+
+<a href="https://github.com/naultie" target="_blank">Naultie GitHub Profile</a>
