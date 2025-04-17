@@ -1,6 +1,6 @@
-## Michael S. Griffin
+# Michael S. Griffin
 
-<h3>Seoftware Developer, IT, Customer Support Specialist</h3>
+## Seoftware Developer, IT, Customer Support Specialist
 
 * I’m currently working on ...
 * I’m currently learning ...
