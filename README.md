@@ -6,3 +6,7 @@
 <li>Two</li>
 <li>Three</li>
 </ul>
+
+<p>
+      It seems that I have to use Markdown for this profile page.
+</p>
