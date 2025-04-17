@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=DWFs6aqknqw" target="_blank">How to level up your GitHub profile README (Basic to Pro!)</a>
       
 <ul>
-<li>One</li>
-<li>Two</li>
-<li>Three</li>
+<li>Project One</li>
+<li>Project Two</li>
+<li>Project Three</li>
 </ul>
 
 <p>
