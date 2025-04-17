@@ -1,6 +1,4 @@
 ## Michael S. Griffin
-desktop computer
-Unicode: U+1F5A5 U+FE0F, UTF-8: F0 9F 96 A5 EF B8 8F
 
 <h3>Seoftware Developer, IT, Customer Support Specialist</h3>
 
