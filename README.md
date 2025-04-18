@@ -1,6 +1,6 @@
 # Michael S. Griffin
 
-## Seoftware Developer, IT, Customer Support Specialist
+## Software Developer, IT, Client Support
 
 * I’m currently working on ...
 * I’m currently learning ...
